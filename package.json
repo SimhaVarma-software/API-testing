@@ -1,0 +1,23 @@
+{
+  "name": "api-testing",
+  "version": "1.0.0",
+  "description": "This document outlines the steps required to complete the task and create a Pull Request (PR) with an AI review.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimhaVarma-software/API-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimhaVarma-software/API-testing/issues"
+  },
+  "homepage": "https://github.com/SimhaVarma-software/API-testing#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
